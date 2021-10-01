@@ -1,0 +1,12 @@
+media screen and (min-width: 480px) { body { background-color: black; color: white; } } @media screen and (min-width: 768px) { body { background-color: yellowgreen; } } 
+p{
+  float: right;
+
+  font-size: 15px;
+  border: 3px solid Gray; padding: 6px; margin: 20px;
+}
+
+/*
+
+
+ */
